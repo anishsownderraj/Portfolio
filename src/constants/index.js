@@ -135,21 +135,21 @@ export const projects = [
         iconUrl: pokemonball,
         theme: 'btn-back-red',
         name: 'Pokédex',
-        description: 'Developed a responsive web application that elegantly showcases pokemon information in a centralized location',
+        description: 'Developed a responsive web application that elegantly showcases pokemon information in a centralized location.',
         link: 'https://pokedex-as.netlify.app/',
     },
     {
         iconUrl: wheel,
         theme: 'btn-back-green',
         name: 'Onewheel Ownership Portal',
-        description: 'Built out a responsive customer facing web application with a team of developlers where onewheel owners could view, customize, and register their boards in a single hub. Implemented photo handling to register boards, added flask security to all routes, and built out the user and board profiles',
+        description: 'Built out a responsive customer facing web application with a team of developlers where onewheel owners could view, customize, and register their boards in a single hub. Implemented photo handling to register boards, added flask security to all routes, and built out the user and board profiles.',
         link: 'https://my.onewheel.com/login'
     },
     {
         iconUrl: threejs,
         theme: 'btn-back-blue',
         name: 'This Portfolio!',
-        description: 'Designed and built a responsive ThreeJS web application showcasing my background and experience',
+        description: 'Designed and built a responsive ThreeJS web application showcasing my background and experience.',
         link: '',
     }
 ];
