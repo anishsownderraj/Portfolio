@@ -30,6 +30,7 @@ const Bird = () => {
             birdRef.current.position.z += 0.01;
         }
     });
+
     return (
         <mesh position={[-5, 2, 1]} rotation={[0, 1.7, 0]}
             scale={[0.003, 0.003, 0.003]}
